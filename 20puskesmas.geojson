@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nama ": "Puskesmas Ngaglik II",
+        "nama": "Puskesmas Ngaglik II",
         "alamat": "Jl. Palagan Tentara Pelajar",
         "telp": "02744360557",
         "img": "https://lh5.googleusercontent.com/p/AF1QipN7aAR2Er-OsF-i0uBBwcRYC9CiPVYbNxNCpRiL=w408-h306-k-no"
@@ -17,7 +17,9 @@
         "type": "Point"
       },
       "id": 0
-    },
+    }
+  ]
+}
     {
       "type": "Feature",
       "properties": {
