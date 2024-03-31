@@ -1,0 +1,344 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Ngaglik II",
+        "alamat": "Jl. Palagan Tentara Pelajar",
+        "telp": "02744360557",
+        "profile": "https://lh5.googleusercontent.com/p/AF1QipN7aAR2Er-OsF-i0uBBwcRYC9CiPVYbNxNCpRiL=w408-h306-k-no"
+      },
+      "geometry": {
+        "coordinates": [
+          110.38869423490326,
+          -7.689687265251379
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Ngaglik I",
+        "alamat": "Jl. Kaliurang No.10",
+        "telp ": "0274888958",
+        "profile": "https://lh5.googleusercontent.com/p/AF1QipNX48QsuPZVzRSsEr8phkXHBHXabmgxX_H2olrg=w408-h725-k-no"
+      },
+      "geometry": {
+        "coordinates": [
+          110.40273768679015,
+          -7.722135327853579
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Pakem",
+        "alamat": "Jl. Kaliurang No.KM. 17",
+        "telp": "0274895591",
+        "profile": "https://lh5.googleusercontent.com/p/AF1QipNMCzUcbSB2-JDj1Pl5jKHdHmn8MxZ8iLDuEvWB=w408-h544-k-no"
+      },
+      "geometry": {
+        "coordinates": [
+          110.42168404544896,
+          -7.660186721922884
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Sleman",
+        "alamat": "Jl. Kapten Haryadi No.6",
+        "telp": "062274868374",
+        "profile": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhE4r2MKtUMxYRUFtMEcf3gdKg6XqDgvGilNPa5JpuArvmAArZRQGPHJt3NktXRMPo1XHriOvdG-ee-Po6muwkhk4cWC2RsouRfUe4_UMwMpAoS9TKDLHuR_0pxJnnnn4cLpp6sRtFvhG47Ii3Gk4cGBlA69byZQWZuSKKew8sH8nadg118ZZuWiM-0dV7-eB0IAZ2Y=w408-h306-k-no"
+      },
+      "geometry": {
+        "coordinates": [
+          110.34650111643361,
+          -7.7018694403593315
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Banguntapan I",
+        "alamat": "Jl. Ngipik",
+        "telp": "0274383104",
+        "profile": "https://lh5.googleusercontent.com/p/AF1QipPjadG1icyd7XmS9L04i_rwscyTMAT0d08OI9w9=w408-h306-k-no"
+      },
+      "geometry": {
+        "coordinates": [
+          110.4139626088255,
+          -7.829108001314793
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Banguntapan II",
+        "alamat": "Jl. Pasopati No.99",
+        "telp": "02744396545",
+        "profile": "https://lh5.googleusercontent.com/p/AF1QipMX03LZOa2a8Kj4RPb1kF7FMDPq-LD6VdVcTC9a=w426-h240-k-no"
+      },
+      "geometry": {
+        "coordinates": [
+          110.38373652313481,
+          -7.84468852987429
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama ": "Puskesmas Bantul I",
+        "alamat": "Jl. KH. Wahid Hasim No. 208",
+        "telp": "02746462223",
+        "profile": "https://lh5.googleusercontent.com/p/AF1QipPnazSRi9qios1ddOVGxErYEwLFTjwQcxeb-ZRA=w408-h306-k-no"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3218697664729,
+          -7.903532566403754
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Bantul II",
+        "alamat": "Jl. Kyai Ageng Teram",
+        "telp": "089630373623",
+        "profile": "https://lh5.googleusercontent.com/p/AF1QipPX2zyjel3Ur5-KjXBCLGJI6laJToy-c8EdTKh-=w408-h306-k-no"
+      },
+      "geometry": {
+        "coordinates": [
+          110.32717637183032,
+          -7.8715584165170185
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Dlingo II",
+        "alamat": "Jl. Pencitrejo",
+        "telp": "085726487776",
+        "profile": "https://lh5.googleusercontent.com/p/AF1QipP8UvCBWMmLJDE7Fyet-v046VMp0IQvC_fUHuUe=w426-h240-k-no"
+      },
+      "geometry": {
+        "coordinates": [
+          110.45262464037313,
+          -7.880248749347615
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Danurejan I",
+        "alamat": "Jl. Bausasran DN3 No.819",
+        "telp": "0274554805",
+        "profile": "https://lh5.googleusercontent.com/p/AF1QipNFLQxbBDeIxoE32mYUYBY3-rJ9pNnZAVy77Koz=w408-h306-k-no"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37521743655486,
+          -7.794552814014679
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Gedong Tengen",
+        "alamat": "Jl. Pringgokusuman No.30",
+        "telp": "0274566292",
+        "profile": "https://lh5.googleusercontent.com/p/AF1QipPqsnC94_hHcv55TnYYVCXLmd5tMtFibZMOOjII=w408-h297-k-no"
+      },
+      "geometry": {
+        "coordinates": [
+          110.35772952542436,
+          -7.791132931305526
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Jetis",
+        "alamat": "Jl. Pangeran Diponegoro No.91",
+        "telp": "0274554801",
+        "profile": "https://lh5.googleusercontent.com/p/AF1QipO-cMZGcwS0SsJ1hRbBBs1ex5flFd2qZlkTGpir=w408-h544-k-no"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36246552597834,
+          -7.783297805218567
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Kotagede I",
+        "alamat": "Jl. Kemasan No.12",
+        "telp": "02744437757",
+        "profile": "https://lh5.googleusercontent.com/p/AF1QipOLi25fyBj1BNmR60_AP0hj2QHhhV_3AueVRbyU=w408-h544-k-no"
+      },
+      "geometry": {
+        "coordinates": [
+          110.40046498588185,
+          -7.822150752912819
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Kotagede II",
+        "alamat": "Jl. Ki Penjawi No.4",
+        "telp": "02744436871",
+        "profile": "https://lh5.googleusercontent.com/p/AF1QipMXJWsclelKon7VCNm9YkfAIQQZm5L6p9Rz8hbR=w408-h725-k-no"
+      },
+      "geometry": {
+        "coordinates": [
+          110.39463864690754,
+          -7.813720043091649
+        ],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Mergangsan",
+        "alamat": "Gg. Brojopermono, Wirogunan",
+        "telp": "08112632014",
+        "profile": "https://lh5.googleusercontent.com/p/AF1QipNWV_rUWr3hL6FlOvq0g3gHgmBvxzEwZaRzVOUW=w408-h544-k-no"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37532093881487,
+          -7.810121961341878
+        ],
+        "type": "Point"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Ngampilan",
+        "alamat": "JL. Munir Serangan Blok.NG.II No.215, Notoprajan",
+        "telp": "0274371399",
+        "profile": "https://lh5.googleusercontent.com/p/AF1QipNfC4OglNJ-gbSWoul5XLwoCr_gLnY9OIbs7qSy=w408-h724-k-no"
+      },
+      "geometry": {
+        "coordinates": [
+          110.35586892658523,
+          -7.803584559329835
+        ],
+        "type": "Point"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Tegalrejo",
+        "alamat": "Jl. Magelang No.180 Km.2",
+        "telp": "0274586841",
+        "profile": "https://lh5.googleusercontent.com/p/AF1QipPzK0GP27xd6i6nEneTQBPWa_dMRxAMNjq6Uuuy=w408-h544-k-no"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3615743201185,
+          -7.77252076753426
+        ],
+        "type": "Point"
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Umbulharjo I I",
+        "alamat": "Jl. Veteran No.43",
+        "telp": "0274419704",
+        "profile": "https://lh5.googleusercontent.com/p/AF1QipNJ-nGZdJOq6zB_TRUAoc73rvOqr3FwCuRLahKr=w408-h306-k-no"
+      },
+      "geometry": {
+        "coordinates": [
+          110.39478211404293,
+          -7.806247288229201
+        ],
+        "type": "Point"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Wirobrajan",
+        "alamat": "Jl. Dorodasih",
+        "telp": "0274414150",
+        "profile": "https://lh5.googleusercontent.com/p/AF1QipNVIalR7ekgpcBYfRXZfgStgA9otqUUkGd5TQGk=w426-h240-k-no"
+      },
+      "geometry": {
+        "coordinates": [
+          110.34808977259746,
+          -7.810609632700334
+        ],
+        "type": "Point"
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Kraton",
+        "alamat": "Jl. Musikanan KT II No.457",
+        "telp": "0274380880",
+        "profile": "https://lh5.googleusercontent.com/p/AF1QipOrhwrRnDbk0v555d_6umltr2Cr_trXWMEqU-T7=w408-h544-k-no"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36501722770538,
+          -7.806052304372784
+        ],
+        "type": "Point"
+      },
+      "id": 19
+    }
+  ]
+}
